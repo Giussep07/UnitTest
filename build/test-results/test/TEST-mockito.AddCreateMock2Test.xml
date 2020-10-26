@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mockito.AddCreateMock2Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-26T22:57:51" hostname="DESKTOP-73DDHVT" time="0.719">
+  <properties/>
+  <testcase name="addTest()" classname="mockito.AddCreateMock2Test" time="0.719"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="junit5.CalculatorTest$AddCreateMock1Test" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-10-27T02:50:10" hostname="DESKTOP-PEDTSVM" time="0.003">
+  <properties/>
+  <testcase name="addZeroTest()" classname="junit5.CalculatorTest$AddCreateMock1Test" time="0.001"/>
+  <testcase name="addNegativeNumberTest()" classname="junit5.CalculatorTest$AddCreateMock1Test" time="0.001"/>
+  <testcase name="addPositiveNumberTest()" classname="junit5.CalculatorTest$AddCreateMock1Test" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

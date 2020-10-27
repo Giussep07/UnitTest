@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mockito.AddTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2020-10-27T02:50:10" hostname="DESKTOP-PEDTSVM" time="0.255">
+  <properties/>
+  <testcase name="spyTest()" classname="mockito.AddTest" time="0.221"/>
+  <testcase name="addPrintTest()" classname="mockito.AddTest" time="0.009"/>
+  <testcase name="bddPatternTest()" classname="mockito.AddTest" time="0.001"/>
+  <testcase name="addTest()" classname="mockito.AddTest" time="0.002"/>
+  <testcase name="captorTest()" classname="mockito.AddTest" time="0.003"/>
+  <testcase name="mockTest()" classname="mockito.AddTest" time="0.003"/>
+  <testcase name="aaaPatternTest()" classname="mockito.AddTest" time="0.001"/>
+  <testcase name="addDoubleToIntThenAnswerTest()" classname="mockito.AddTest" time="0.002"/>
+  <testcase name="addPrintErrorTest()" classname="mockito.AddTest" time="0.002"/>
+  <testcase name="argumentMatcherTest()" classname="mockito.AddTest" time="0.001"/>
+  <testcase name="addRealMethodTest()" classname="mockito.AddTest" time="0.001"/>
+  <testcase name="addMockExceptionTest()" classname="mockito.AddTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mockito.ValidNumberTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2020-10-27T02:50:10" hostname="DESKTOP-PEDTSVM" time="0.007">
+  <properties/>
+  <testcase name="checkZeroStringTest()" classname="mockito.ValidNumberTest" time="0.0"/>
+  <testcase name="doubleToIntTest()" classname="mockito.ValidNumberTest" time="0.001"/>
+  <testcase name="checkZeroTest()" classname="mockito.ValidNumberTest" time="0.0"/>
+  <testcase name="checkStringTest()" classname="mockito.ValidNumberTest" time="0.0"/>
+  <testcase name="doubleToIntErrorTest()" classname="mockito.ValidNumberTest" time="0.001"/>
+  <testcase name="checkTest()" classname="mockito.ValidNumberTest" time="0.0"/>
+  <testcase name="checkZero0Test()" classname="mockito.ValidNumberTest" time="0.001"/>
+  <testcase name="checkNegativeTest()" classname="mockito.ValidNumberTest" time="0.001"/>
+  <testcase name="checkDoubleTest()" classname="mockito.ValidNumberTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

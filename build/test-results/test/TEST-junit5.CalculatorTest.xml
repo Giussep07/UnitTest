@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="junit5.CalculatorTest" tests="9" skipped="2" failures="0" errors="0" timestamp="2020-10-27T02:50:09" hostname="DESKTOP-PEDTSVM" time="1.051">
+  <properties/>
+  <testcase name="divideValidInputValidExpectedTest()" classname="junit5.CalculatorTest" time="0.014"/>
+  <testcase name="calculatorNotNullTest()" classname="junit5.CalculatorTest" time="0.001"/>
+  <testcase name="addTest()" classname="junit5.CalculatorTest" time="0.001"/>
+  <testcase name="divideNotValidInputTest()" classname="junit5.CalculatorTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="divideByZeroTest()" classname="junit5.CalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="timeOutTest()" classname="junit5.CalculatorTest" time="1.004"/>
+  <testcase name="addAssertAllTest()" classname="junit5.CalculatorTest" time="0.023"/>
+  <testcase name="divideByZeroInvalidInputExpectedExceptionTest()" classname="junit5.CalculatorTest" time="0.001"/>
+  <testcase name="addAssertTest()" classname="junit5.CalculatorTest" time="0.001"/>
+  <system-out><![CDATA[beforeAll
+afterAll
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

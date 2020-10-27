@@ -15,6 +15,9 @@ class AddCreateMock2Test {
     @Mock
     private val validNumber: ValidNumber? = null
 
+    @Mock
+    private val print: Print? = null
+
     @BeforeEach
     fun setUp() {
         MockitoAnnotations.initMocks(this)

@@ -59,7 +59,6 @@ internal class CalculatorTest {
         assertEquals(30, calculator?.add(10, 20))
     }
 
-    @Disabled
     @Test
     fun divideValidInputValidExpectedTest() {
         assertEquals(2, calculator?.divide(4, 2))
@@ -119,7 +118,7 @@ internal class CalculatorTest {
 
     @Test
     fun timeOutTest() {
-        assertTimeout(Duration.ofMillis(600)) {
+        assertTimeout(Duration.ofMillis(1100)) {
             calculator?.longTaskOperation()
         }
     }
